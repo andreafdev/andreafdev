@@ -1,6 +1,6 @@
 # Oiii! Eu sou a Andrea Furtunato, estudante de programação!
 
-- 🌱 Atualamente estou estudando front-end, com foco em JavaScript e React.
+- 🌱 Atualmente estou estudando front-end, com foco em JavaScript e React.
 - 😄 Pronomes: ela/dela
 
 <div>
