@@ -1,6 +1,6 @@
-# Hey! I'm Andrea Furtunato, programming student!
+# Hey! I'm Andrea Furtunato, web developer!
 
-- 🌱 I'm currently studying front-end, focusing on JavaScript and React.
+- 🌱 I'm currently studying backend, focusing on JavaScript.
 - 😄 Pronouns: she/her
 
 <div>
