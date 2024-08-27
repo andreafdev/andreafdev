@@ -1,7 +1,8 @@
 # Hey! I'm Andrea Furtunato, web developer!
 
-- 🌱 I'm currently studying backend, focusing on JavaScript.
+- 🌱 I'm currently studying Systems Analysis and Development and studying web development. I have experience with JavaScript, Java, React and MySql. I am constantly developing and carrying out projects to improve my knowledge and skills.
 - 😄 Pronouns: she/her
+- 
 
 <div>
 </div>
