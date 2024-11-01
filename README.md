@@ -6,22 +6,22 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python (para desenvolvimento backend e automação) | Java (para aplicações corporativas) | JavaScript (para desenvolvimento frontend e aplicações web interativas).**
+  🦄 Linguagens: <strong>Python</strong> (para desenvolvimento backend e automação) | <strong>Java</strong> (para aplicações corporativas) | <strong>JavaScript</strong> (para desenvolvimento frontend e aplicações web interativas).
 </p>
 
 <p align="left">
-  💼 Ferramentas: **React | Vue.js | Git | Docker.**
+  💼 Ferramentas: <strong>React</strong> | <strong>Vue.js</strong> | <strong>Git</strong> | <strong>Docker</strong>.
 </p>
 
 <p align="left">
-  💌 Estou sempre aberta a novas oportunidades e colaborações! Sinta-se à vontade para me contatar por e-mail ou através das redes sociais. Adoraria trocar ideias e aprender com você!: ⤵️
+  💌 Estou sempre aberta a novas oportunidades e colaborações! Sinta-se à vontade para me contatar por e-mail ou através das redes sociais. Adoraria trocar ideias e aprender com você! ⤵️
 </p>
 
 <p align="left">
   <a href="mailto:andreafurtunatops@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=andreafurtunatops@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/andreafurtunato/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreafurtunato/" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/deafurtunato_/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/deafurtunato_/" alt="Instagram"/></a>
 </p>
