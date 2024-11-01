@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Andréa!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=ANDREA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estudando Análise e Desenvolvimento de Sistemas na Descomplica<br/> Eu sou desenvolvedor full-stack</p>
