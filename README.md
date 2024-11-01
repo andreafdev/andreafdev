@@ -6,19 +6,19 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python | Java | JavaScript.**
+  🦄 Linguagens: **Python (para desenvolvimento backend e automação) | Java (para aplicações corporativas) | JavaScript (para desenvolvimento frontend e aplicações web interativas).**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: ** React | Vue.js | Git | Docker.**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Estou sempre aberta a novas oportunidades e colaborações! Sinta-se à vontade para me contatar por e-mail ou através das redes sociais. Adoraria trocar ideias e aprender com você!: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="andreafurtunatops@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
