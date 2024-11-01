@@ -1,29 +1,7 @@
-# Hey! I'm Andrea Furtunato, web developer!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-- 🌱 I'm currently studying Systems Analysis and Development and studying web development. I have experience with JavaScript, Java, React and MySql. I am constantly developing and carrying out projects to improve my knowledge and skills.
-- 😄 Pronouns: she/her
+### Olá, meu nome é Andréa!
 
-<div>
-</div>
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-
-
-<div style="display: inline_block"><br>
-
-  ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreafdev&show_icons=true&theme=transparent)
-
-  <h2> Technologies and tools </h2>
-    <img align="center" alt="" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="" height="30" width="90" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-   
-</div>
-  <h2> Contact:  </h2>
-  <a href = "mailto:andreafps.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andreafurtunato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-</div>
+<p>Estudando Análise e Desenvolvimento de Sistemas na Descomplica<br/> Eu sou desenvolvedor full-stack</p>
