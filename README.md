@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Estou sempre aberta a novas oportunidades e colaborações! Sinta-se à vontade para me contatar por e-mail ou através das redes sociais. Adoraria trocar ideias e aprender com você! ⤵️
+  💌 Estou sempre aberta a novas oportunidades e colaborações! Sinta-se à vontade para me contatar por e-mail ou através das redes sociais.  ⤵️
 </p>
 
 <p align="left">
