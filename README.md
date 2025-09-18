@@ -6,25 +6,21 @@
      align="right">
 
 <p align="left"> 
-  👋 Oi! Meu nome é Andrea e sou <strong>Analista de Dados</strong> em formação, com foco em <strong>Python</strong>, <strong>Business Intelligence</strong> e <strong>Data Analytics</strong>.<br>
+  👋 Oi! Meu nome é Andrea e sou <strong>Analista de Dados</strong> em formação, com foco em <strong>Business Intelligence</strong>, <strong>Excel</strong>, <strong>Python</strong> e <strong>SQL</strong>.<br>
   Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na Faculdade Descomplica.  
 </p>
 
 <p align="left">
-  🐍 <strong>Linguagens:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL (MySQL, PostgreSQL)  
+  🐍 <strong>Linguagens:</strong> Python (automação, análise e tratamento de dados) | SQL (consultas e manipulação de dados)  
 </p>
 
 <p align="left">
-  📊 <strong>BI & Data Viz:</strong> Power BI | Tableau | Google Data Studio  
+  📊 <strong>BI & Ferramentas:</strong> Power BI | Excel Avançado | Pacote Office  
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas:</strong> Jupyter Notebook | Git | Excel Avançado  
-</p>
-
-<p align="left">
-  💡 Sempre em busca de transformar dados em <strong>insights estratégicos</strong>.  
-  Aberta a colaborações e oportunidades em projetos de <strong>Data Analytics</strong> e <strong>Business Intelligence</strong>.  
+  💡 Tenho paixão por transformar dados em <strong>insights estratégicos</strong> e apoiar decisões baseadas em informação.  
+  Estou aberta a colaborações e novas oportunidades na área de <strong>Análise de Dados</strong>.  
 </p>
 
 <p align="left">
