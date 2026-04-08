@@ -6,21 +6,20 @@
      align="right">
 
 <p align="left"> 
-  👋 Oi! Meu nome é Andrea e sou <strong>Analista de Dados</strong> em formação, com foco em <strong>Business Intelligence</strong>, <strong>Excel</strong>, <strong>Python</strong> e <strong>SQL</strong>.<br>
-  Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na Faculdade Descomplica.  
+  👋 Oi! Meu nome é Andrea e sou Engenheira de Dados em formação.
+Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Descomplica.
 </p>
 
 <p align="left">
-  🐍 <strong>Linguagens:</strong> Python (automação, análise e tratamento de dados) | SQL (consultas e manipulação de dados)  
+  🐍 <strong>Linguagens:</strong> Python (automação, manipulação de dados) | SQL (consultas e tratamento de dados)  
 </p>
 
 <p align="left">
-  📊 <strong>BI & Ferramentas:</strong> Power BI | Excel Avançado | Pacote Office  
+  📊 <strong>BI & Ferramentas:</strong> Excel | Pacote Office | Power BI (conhecimento básico)
 </p>
 
 <p align="left">
-  💡 Tenho paixão por transformar dados em <strong>insights estratégicos</strong> e apoiar decisões baseadas em informação.  
-  Estou aberta a colaborações e novas oportunidades na área de <strong>Análise de Dados</strong>.  
+  💡 Tenho interesse em construir pipelines de dados, trabalhar com ETL e organizar dados de forma eficiente e confiável.
 </p>
 
 <p align="left">
